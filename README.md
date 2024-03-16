@@ -1,3 +1,3 @@
-# My first trial
+My first trial
 
-This is my first project!
+This is my first Git project!
